@@ -2,19 +2,48 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 85%
   &-2
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 40%
+    right: 80%
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 30%
+    right: 15%
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 70%
+  &-5
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 0%
 
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
 
+@keyframes float2
+  0%
+    transform: translateX(20px)
+  100%
+    transform: translateX(0px)
+
+.bg
+  &-c1
+    background-image: url(../assets/curso/intro/img1.png)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-position: bottom
+    background-size: cover
+    margin-bottom: -48px
+    @media screen and ( max-width: $bp-max-sm )
+      margin-bottom: -24px

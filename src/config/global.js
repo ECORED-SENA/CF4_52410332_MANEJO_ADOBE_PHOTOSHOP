@@ -1,17 +1,30 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Retoque y edición de fotografía',
+    descripcionCurso:
+      'El presente componente formativo una guía detallada sobre técnicas avanzadas de retoque y edición fotográfica, utilizando la herramienta Photoshop. Se abordan métodos para mejorar imágenes mediante la manipulación de luces y sombras, la corrección de imperfecciones, y la aplicación de efectos especiales, como el HDR y el efecto Dragan, que optimizan la calidad visual de las fotografías.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-5.png'),
       },
     ],
   },
@@ -31,28 +44,58 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Fotografía digital',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Colorear una imagen a blanco y negro',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Grietas, rasgaduras e imperfecciones',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Cambio de color de ojos',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Creación de maquillaje en Photoshop',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Arreglar imperfecciones y suavizar la piel',
+            hash: 't_1_5',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Manejo de iluminaciones y sombreados',
         desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Manejo de sombras',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'HDR (<i>High Dynamic Range</i>)',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Efecto dragan',
+            hash: 't_2_3',
+          },
+        ],
       },
     ],
     subMenu: [

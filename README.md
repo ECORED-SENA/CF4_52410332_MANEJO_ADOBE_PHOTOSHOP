@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Retoque y edición de fotografía**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF4_52410332_MANEJO_ADOBE_PHOTOSHOP/](https://ecored-sena.github.io/CF4_52410332_MANEJO_ADOBE_PHOTOSHOP/)
 
 #
 
