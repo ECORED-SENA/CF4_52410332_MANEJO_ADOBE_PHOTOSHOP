@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="57" viewBox="0 0 85 57">
+  <g id="Grupo_1101890" data-name="Grupo 1101890" transform="translate(-1335 -615)">
+    <rect id="Rectángulo_403245" data-name="Rectángulo 403245" width="85" height="57" transform="translate(1335 615)" fill="#ddd4f5"/>
+    <g id="Computer_Display-Light" data-name="Computer Display-Light" transform="translate(1351.38 620.38)">
+      <path id="Trazado_878870" data-name="Trazado 878870" d="M30.737,11a5.729,5.729,0,0,0-2.459,10.908v4.663a2.459,2.459,0,1,0,4.917,0V21.908A5.729,5.729,0,0,0,30.737,11Zm.82,15.571a.82.82,0,1,1-1.639,0v-.82h1.639Zm0-2.459H29.917V22.474h1.639Z" transform="translate(-4.15 -1.624)" fill="#5b2ccf"/>
+      <path id="Trazado_878871" data-name="Trazado 878871" d="M31,6h1.639V9.278H31Z" transform="translate(-5.233 -0.722)" fill="#5b2ccf"/>
+      <path id="Trazado_878872" data-name="Trazado 878872" d="M0,0H1.639V3.278H0Z" transform="translate(19.051 8.742) rotate(-45)" fill="#5b2ccf"/>
+      <path id="Trazado_878873" data-name="Trazado 878873" d="M20,17h3.278v1.639H20Z" transform="translate(-3.248 -2.707)" fill="#5b2ccf"/>
+      <path id="Trazado_878874" data-name="Trazado 878874" d="M0,0H3.278V1.639H0Z" transform="translate(19.048 21.488) rotate(-45)" fill="#5b2ccf"/>
+      <path id="Trazado_878875" data-name="Trazado 878875" d="M0,0H1.639V3.278H0Z" transform="translate(30.638 20.333) rotate(-45)" fill="#5b2ccf"/>
+      <path id="Trazado_878876" data-name="Trazado 878876" d="M40,17h3.278v1.639H40Z" transform="translate(-6.857 -2.707)" fill="#5b2ccf"/>
+      <path id="Trazado_878877" data-name="Trazado 878877" d="M0,0H3.278V1.639H0Z" transform="translate(30.639 9.899) rotate(-45)" fill="#5b2ccf"/>
+      <path id="Trazado_878878" data-name="Trazado 878878" d="M48.714,2H4.459A2.466,2.466,0,0,0,2,4.459v29.5a2.466,2.466,0,0,0,2.459,2.459H18.391a4.1,4.1,0,0,1,0,8.2.831.831,0,0,0-.779.557l-1.639,4.917a.82.82,0,0,0,.115.738.806.806,0,0,0,.664.344H36.421a.806.806,0,0,0,.664-.344.82.82,0,0,0,.115-.738L35.56,45.174a.831.831,0,0,0-.779-.557,4.1,4.1,0,1,1,0-8.2H48.714a2.466,2.466,0,0,0,2.459-2.459V4.459A2.466,2.466,0,0,0,48.714,2Zm.82,27.832-45.895.041V4.459a.82.82,0,0,1,.82-.82H48.714a.82.82,0,0,1,.82.82Z" fill="#5b2ccf"/>
+    </g>
+  </g>
+</svg>
