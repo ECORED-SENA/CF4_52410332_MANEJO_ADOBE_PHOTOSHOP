@@ -145,32 +145,76 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Fotografía digital',
+      referencia:
+        'PCN tutoriales de Photoshop. (2023). Suavizado y Retoque de piel de gama alta en Photoshop ¡SUPER FACIL! (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=TilIE7PKMUs',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Manejo de iluminaciones y sombreados',
+      referencia:
+        'PCN tutoriales de Photoshop. (2023). Crea Increíbles Sombreados en Photoshop - ¡Aprende el Secreto! (video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=fW3SaWv02x4',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Capa',
+      significado:
+        'elemento en Photoshop que permite trabajar de manera independiente sobre una parte de la imagen sin afectar el resto.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Colorear',
+      significado:
+        'proceso de añadir color a una imagen en blanco y negro utilizando herramientas como Tono/saturación.',
+    },
+    {
+      termino: 'Contraste',
+      significado:
+        'diferencia de brillo o color que hace que los elementos de una imagen se distingan entre sí.',
+    },
+    {
+      termino: 'Curvas',
+      significado:
+        'herramienta en Photoshop que permite ajustar los tonos de la imagen modificando la curva de luminosidad.',
+    },
+    {
+      termino: 'Degradado',
+      significado: 'transición suave entre dos o más colores en una imagen.',
+    },
+    {
+      termino: 'Grietas',
+      significado:
+        'imperfecciones en fotografías antiguas que suelen ser reparadas digitalmente utilizando herramientas como el Pincel corrector.',
+    },
+    {
+      termino: 'HDR (<i>High Dynamic Range</i>)',
+      significado:
+        'técnica que mejora el rango dinámico de iluminación en una imagen para equilibrar las zonas claras y oscuras.',
+    },
+    {
+      termino: 'Luz suave',
+      significado:
+        'modo de fusión en Photoshop que se utiliza para aplicar efectos de iluminación sutiles en las imágenes.',
+    },
+    {
+      termino: 'Pincel',
+      significado:
+        'herramienta en Photoshop que permite pintar sobre una imagen con diferentes colores y opacidades.',
+    },
+    {
+      termino: 'Subexponer',
+      significado:
+        'técnica que oscurece áreas específicas de una imagen para destacar los detalles en sombras.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia: 'Adobe. (s.f.). Retoque y reparación de fotografías. ',
+      link:
+        'https://helpx.adobe.com/co/photoshop/using/retouching-repairing-images.html',
     },
   ],
   creditos: [
@@ -193,8 +237,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Carlos Andrés Díaz Botero',
+          cargo: 'Experto temático',
+          centro: 'Centro Agroindustrial - Regional Quindío',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -203,35 +252,35 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Juan Daniel Polanco Muñoz',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Nombre',
+        //  cargo: 'Animador y productor audiovisual',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Luis Gabriel Urueta Alvarez',
+        //  cargo: 'Validador y vinculador de recursos educativos digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
+        //{
+        //  nombre: 'Jaime Hernán Tejada Llano',
+        //  cargo: 'Validador y vinculador de recursos educativos digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
