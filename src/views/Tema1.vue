@@ -36,8 +36,8 @@
             img(src='@/assets/curso/tema1/img4m.png', style='width: 360px', alt='').m-auto
     .row.align-items-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
-        p Se selecciona la herramienta Pincel y con el Color blanco , como principal, se empieza a pintar sobre la piel, sin hacer trazos sobre el pelo o vestido, ya que se empieza a dar color a la piel, en el caso del ejemplo tampoco se pasa el Pincel sobre los labios, porque ella utiliza labial, entonces se debe dar otro color.
-        p.mb-0 Al dar clic en el ícono de la parte izquierda de la capa , se activa el panel de Tono/saturación y se puede ajustar el tono de la piel que se quiere para esta imagen.
+        p Se selecciona la herramienta Pincel y con el color blanco , como principal, se empieza a pintar sobre la piel, sin hacer trazos sobre el pelo o vestido, ya que se empieza a dar color a la piel, en el caso del ejemplo tampoco se pasa el Pincel sobre los labios, porque ella utiliza labial, entonces se debe dar otro color.
+        p.mb-0 Al dar clic en el ícono de la parte izquierda de la capa, se activa el panel de Tono/saturación y se puede ajustar el tono de la piel que se quiere para esta imagen.
       .col-lg-6(data-aos="fade-left")
         .p-4.bg-c4
           figure
@@ -49,7 +49,7 @@
             img(src='@/assets/curso/tema1/img6.png', style='width: 800px', alt='').m-auto
           figure.d-block.d-lg-none
             img(src='@/assets/curso/tema1/img6m.png', style='width: 360px', alt='').m-auto
-    p.mb-5(data-aos="fade-right") Para dar color a los labios y los dientes, se crea una capa de Tono/saturación, se invierte la capa y se selecciona el Pincel con el color blanco, luego se pinta sobre los labios y en el panel Ajustes se da el tono deseado.
+    p.mb-5(data-aos="fade-right") Para dar color a los labios y los dientes, se crea una capa de #[b Tono / saturación], se invierte la capa y se selecciona el Pincel con el color blanco, luego se pinta sobre los labios y en el panel Ajustes se da el tono deseado.
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
         .p-4.bg-c3
@@ -371,7 +371,7 @@
             img(src='@/assets/curso/tema1/img33.png', style='width: 400px', alt='').m-auto
     .row.align-items-center.mb-5
       .col-lg.mb-4.mb-lg-0(data-aos="fade-right")
-        p.mb-0 Ahora se hará una selección alrededor del ojo, para hacerlo utilice la herramienta #[b Zoom] al momento de acercarlo y después escoja la herramienta #[b Máscara rápida], posteriormente elija el color negro como color principal y seleccione un pincel, en ese momento comience a pintar sobre el ojo y entonces verá como este se va tornando de color rojo conforme se van pasando los trazos.
+        p.mb-0 Ahora se hará una selección alrededor del ojo, para hacerlo utilice la herramienta #[b Zoom] al momento de acercarlo y después escoja la herramienta #[b Máscara rápida], posteriormente elija el color negro como color principal y seleccione un pincel, en ese momento comience a pintar sobre el ojo y entonces verá cómo este se va tornando de color rojo conforme se van pasando los trazos.
       .col-lg-3(data-aos="fade-left")
         .p-3.bg-c4
           figure
@@ -405,7 +405,7 @@
         figure
           img(src='@/assets/curso/tema1/img6.svg', style='width: 80px', alt='').m-auto
       .col
-        p.mb-0 Ahora seleccione #[b Menú / Imagen / Tono/saturación] y en la ventana emergente dé clic en la opción Colorear, entonces se pueden modificar los valores para cambiar el color los ojos.
+        p.mb-0 Ahora seleccione #[b Menú / Imagen / Tono / saturación] y en la ventana emergente dé clic en la opción Colorear, entonces se pueden modificar los valores para cambiar el color los ojos.
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
         .p-4.bg-c3
@@ -417,8 +417,8 @@
     #t_1_4
     .titulo-segundo.color-acento-contenido
       h2 1.4 Creación de maquillaje en Photoshop
-    p(data-aos="fade-right") Con la imagen abierta se creará una capa dando clic en Nueva capa de relleno, después se selecciona la opción Equilibrio de color y posteriormente se realizan los ajustes.
-    p.mb-5(data-aos="fade-right") En la capa Equilibrio de color se ajustan los valores de la siguiente manera:
+    p(data-aos="fade-right") Con la imagen abierta se creará una capa dando clic en Nueva capa de relleno, después se selecciona la opción #[b Equilibrio de color] y posteriormente se realizan los ajustes.
+    p.mb-5(data-aos="fade-right") En la capa #[b Equilibrio de color] se ajustan los valores de la siguiente manera:
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
@@ -577,7 +577,7 @@
             img(src='@/assets/curso/tema1/img56.png', style='width: 800px', alt='').m-auto
           figure.d-block.d-lg-none
             img(src='@/assets/curso/tema1/img56m.png', style='width: 430px', alt='').m-auto
-    p.mb-5(data-aos="fade-right") Ahora se crea una máscara de capa y luego se  digit #[b Ctrl + I (Windows)] o #[b Cmd + I (Mac)], para invertir la máscara y ocultar los efectos que se han aplicado hasta el momento.
+    p.mb-5(data-aos="fade-right") Ahora se crea una máscara de capa y luego se  digitá #[b Ctrl + I (Windows)] o #[b Cmd + I (Mac)], para invertir la máscara y ocultar los efectos que se han aplicado hasta el momento.
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
@@ -630,7 +630,7 @@
         .p-4.bg-c3
           figure
             img(src='@/assets/curso/tema1/img61.png', style='width: 850px', alt='').m-auto
-    p.txt-c1.mb-5(data-aos="fade-right") Se crea una capa de ajuste de #[b Tono/saturación] y se da clic en la opción de que solo afecte la capa inferior, entonces se cambiará el modo de la capa sobre la que se pintó a #[b Luz suave].
+    p.txt-c1.mb-5(data-aos="fade-right") Se crea una capa de ajuste de #[b Tono / saturación] y se da clic en la opción de que solo afecte la capa inferior, entonces se cambiará el modo de la capa sobre la que se pintó a #[b Luz suave].
     .row.justify-content-center.mb-5(data-aos="fade-up")
       .col-lg-10
         .titulo-sexto.color-acento-contenido

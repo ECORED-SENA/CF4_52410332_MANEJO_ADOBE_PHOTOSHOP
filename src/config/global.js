@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Retoque y edición de fotografía',
     descripcionCurso:
-      'El presente componente formativo una guía detallada sobre técnicas avanzadas de retoque y edición fotográfica, utilizando la herramienta Photoshop. Se abordan métodos para mejorar imágenes mediante la manipulación de luces y sombras, la corrección de imperfecciones, y la aplicación de efectos especiales, como el HDR y el efecto Dragan, que optimizan la calidad visual de las fotografías.',
+      'El presente componente formativo es una guía detallada sobre técnicas avanzadas de retoque y edición fotográfica, utilizando la herramienta Photoshop. Se abordan métodos para mejorar imágenes mediante la manipulación de luces y sombras, la corrección de imperfecciones, y la aplicación de efectos especiales, como el HDR y el efecto Dragan, que optimizan la calidad visual de las fotografías.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -276,11 +276,11 @@ export default {
         //  cargo: 'Validador y vinculador de recursos educativos digitales',
         //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
         //},
-        //{
-        //  nombre: 'Jaime Hernán Tejada Llano',
-        //  cargo: 'Validador y vinculador de recursos educativos digitales',
-        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        //},
+        {
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
