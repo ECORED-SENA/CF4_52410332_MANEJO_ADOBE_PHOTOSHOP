@@ -577,7 +577,7 @@
             img(src='@/assets/curso/tema1/img56.png', style='width: 800px', alt='').m-auto
           figure.d-block.d-lg-none
             img(src='@/assets/curso/tema1/img56m.png', style='width: 430px', alt='').m-auto
-    p.mb-5(data-aos="fade-right") Ahora se crea una máscara de capa y luego se  digitá #[b Ctrl + I (Windows)] o #[b Cmd + I (Mac)], para invertir la máscara y ocultar los efectos que se han aplicado hasta el momento.
+    p.mb-5(data-aos="fade-right") Ahora se crea una máscara de capa digitando #[b Ctrl + I (Windows)] o #[b Cmd + I (Mac)], para invertir la máscara y ocultar los efectos que se han aplicado hasta el momento.
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
