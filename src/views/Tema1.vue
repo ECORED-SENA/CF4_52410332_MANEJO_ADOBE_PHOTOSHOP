@@ -18,7 +18,7 @@
     #t_1_1
     .titulo-segundo.color-acento-contenido
       h2 1.1 Colorear una imagen a blanco y negro
-    p.mb-5(data-aos="fade-right") Con la imagen abierta se duplica la capa dando clic derecho en Duplicar capa y luego dando clic en la opción Tono/saturación para crearla.
+    p.mb-5(data-aos="fade-right") Con la imagen abierta se duplica la capa dando clic derecho en Duplicar capa y luego dando clic en la opción #[b Tono/saturación] para crearla.
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10
         .p-4.bg-c3
@@ -26,7 +26,7 @@
             img(src='@/assets/curso/tema1/img3.png', style='width: 900px', alt='').m-auto
           figure.d-block.d-lg-none
             img(src='@/assets/curso/tema1/img3m.png', style='width: 360px', alt='').m-auto
-    p.mb-5(data-aos="fade-right") Sobre la capa de Tono/saturación se ajusta el panel de la capa en modo colorear y se invierte la capa con Ctrl + I (Windows) o Cmd + I (Mac), entonces así debe quedar el color de la capa en negro en dicho panel.
+    p.mb-5(data-aos="fade-right") Sobre la capa de #[b Tono/saturación] se ajusta el panel de la capa en modo colorear y se invierte la capa con #[b Ctrl + I (Windows) o Cmd + I (Mac)], entonces así debe quedar el color de la capa en negro en dicho panel.
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .p-4.bg-c3
@@ -36,8 +36,8 @@
             img(src='@/assets/curso/tema1/img4m.png', style='width: 360px', alt='').m-auto
     .row.align-items-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
-        p Se selecciona la herramienta Pincel y con el color blanco , como principal, se empieza a pintar sobre la piel, sin hacer trazos sobre el pelo o vestido, ya que se empieza a dar color a la piel, en el caso del ejemplo tampoco se pasa el Pincel sobre los labios, porque ella utiliza labial, entonces se debe dar otro color.
-        p.mb-0 Al dar clic en el ícono de la parte izquierda de la capa, se activa el panel de Tono/saturación y se puede ajustar el tono de la piel que se quiere para esta imagen.
+        p Se selecciona la herramienta #[b Pincel] y con el color blanco , como principal, se empieza a pintar sobre la piel, sin hacer trazos sobre el pelo o vestido, ya que se empieza a dar color a la piel, en el caso del ejemplo tampoco se pasa el #[b Pincel] sobre los labios, porque ella utiliza labial, entonces se debe dar otro color.
+        p.mb-0 Al dar clic en el ícono de la parte izquierda de la capa, se activa el panel de #[b Tono/saturación] y se puede ajustar el tono de la piel que se quiere para esta imagen.
       .col-lg-6(data-aos="fade-left")
         .p-4.bg-c4
           figure
@@ -82,8 +82,8 @@
                   figure
                     img(src='@/assets/curso/tema1/img2.svg', style='width: 60px', alt='').m-auto
                 .col
-                  p.mb-0 Como se presenta en el ejemplo, con el paso del tiempo se ha desquebrajado el papel, dejando imperfecciones en la fotografía, a continuación se verá qué herramientas se pueden utilizar para devolver en el tiempo dicha imagen.
-        p.mb-0 Con la fotografía ya abierta en #[b Photoshop], lo primero que se hace es desbloquear la capa, dando doble clic sobre ella, luego en la ventana emergente se hacer clic derecho sobre la opción #[b Duplicar capa], esto se hace con el fin de conservar la imagen original.
+                  p.mb-0 Como se presenta en el ejemplo, con el paso del tiempo se ha desquebrajado el papel, dejando imperfecciones en la fotografía, a continuación, se verá qué herramientas se pueden utilizar para devolver en el tiempo dicha imagen.
+        p.mb-0 Con la fotografía ya abierta en #[b Photoshop], lo primero que se hace es desbloquear la capa, dando doble clic sobre ella, luego en la ventana emergente se hace clic derecho sobre la opción #[b Duplicar capa], esto se hace con el fin de conservar la imagen original.
       .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img3.svg', style='width: 360px', alt='').m-auto
@@ -405,7 +405,7 @@
         figure
           img(src='@/assets/curso/tema1/img6.svg', style='width: 80px', alt='').m-auto
       .col
-        p.mb-0 Ahora seleccione #[b Menú / Imagen / Tono / saturación] y en la ventana emergente dé clic en la opción Colorear, entonces se pueden modificar los valores para cambiar el color los ojos.
+        p.mb-0 Ahora seleccione #[b Menú / Imagen / Tono / saturación] y en la ventana emergente dé clic en la opción Colorear, entonces se pueden modificar los valores para cambiar el color de los ojos.
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
         .p-4.bg-c3
